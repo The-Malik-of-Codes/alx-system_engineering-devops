@@ -1,3 +1,8 @@
+/*
+ * File: 102-zombie.c
+ * Auth: Brennan D Baraban
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
@@ -43,4 +48,5 @@ int main(void)
 
 	infinite_while();
 
-	return (EXIT_SUCCESS); 
+	return (EXIT_SUCCESS);
+}
